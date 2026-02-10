@@ -1,5 +1,5 @@
-#Calcuator 
-# Calculator
+#Calcuator for +,-,*
+
 
 import addition as a
 import subtraction as s
